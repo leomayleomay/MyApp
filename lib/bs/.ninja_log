@@ -1,0 +1,8 @@
+# ninja log v5
+0	38	1530107532	src/App.mlast	d07816afa363f34a
+0	39	1530107532	src/Navigation.mlast	13cde29326daa5a5
+38	49	1530107532	src/App.mlast.d	9de53c7e336e7295
+39	53	1530107532	src/Navigation.mlast.d	f0a9852b650fb3fe
+0	21	1530107532	src/App.cmj	a9a40ca4a6d0eda
+0	21	1530107532	/Users/hao/Sandbox/MyApp/src/App.bs.js	a9a40ca4a6d0eda
+0	21	1530107532	src/App.cmi	a9a40ca4a6d0eda
